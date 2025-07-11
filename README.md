@@ -240,6 +240,6 @@ If you're interested in collaboration, licensing, or structural inquiry:
 
 📬 Email → **celmeta.core@proton.me**
 
-🔒 See [LICENSE.md](./LICENSE.md) for detailed terms of use and module protection.
+🔒 See [License.md](./License.md) for detailed terms of use and module protection.
 
 
