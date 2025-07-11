@@ -1,4 +1,4 @@
-# 📌 License Summary
+#  License Summary
 
 This repository is **not open source**. It is currently shared for system demonstration, academic review, and structural iteration purposes only.  
 **Cloning, forking, copying, or structurally replicating any part of this system is not permitted.**
@@ -7,7 +7,7 @@ This project represents a **prototype of a structural learning engine**, integra
 
 ---
 
-## 📐 Protected Content
+##  Protected Content
 
 The following elements are original and protected under structural copyright:
 
@@ -21,7 +21,7 @@ The following elements are original and protected under structural copyright:
 
 ---
 
-## 🔒 Permitted Use
+##  Permitted Use
 
 - **Personal learning and inspirational reference only**
 - Forking, re-distribution, structural citation, or copying of expression mechanisms is **not permitted**
@@ -37,7 +37,7 @@ This work is timestamped and monitored.
 
 ---
 
-## 🔧 Future Consideration
+##  Future Consideration
 
 A public “Celmeta-Lite” version may be released in the future, focused on structural learning and expressive logic modules.
 
@@ -50,7 +50,7 @@ Please contact the project maintainer as listed in `README.md`.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 Email: **loopbase.contact@proton.me**
 
