@@ -126,6 +126,7 @@ Ultimately, Celmeta will become a reusable cognitive framework to help more peop
 | **MAI**      | Medical × AI pathway adapter for interdisciplinary execution        
 ---
 
+
 ##  Architecture Overview (Visual)
 
 https://github.com/metaunit-core/celmeta-core-1.0/issues/2#issue-3224727492
@@ -134,9 +135,9 @@ https://github.com/metaunit-core/celmeta-core-1.0/issues/2#issue-3224727492
 
 ---
 
-*A flow-based illustration of module orchestration & task execution.*
 
----
+
+
 ## 🔁 Step 0–7 · Emergent Execution Flow
 
 Not a checklist — a cognition engine.
@@ -203,7 +204,7 @@ Through Echo feedback and LoopBase repetition, learners shift from translation-b
    **MAI Module Refinement**  
   • Refine `MAI` logic to bridge medical reasoning with AI structure paths
 
----
+
 
 ###  V2.0 · Cross-Domain Adaptation
 
