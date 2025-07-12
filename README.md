@@ -118,6 +118,19 @@ Ultimately, Celmeta will become a reusable cognitive framework to help more peop
 | **MAI**      | Medical × AI pathway adapter for interdisciplinary execution        |
 
 ---
+---
+
+##  Architecture Overview (Visual)
+
+![Celmeta Architecture](.)
+
+*A flow-based illustration of module orchestration & task execution.*
+
+---
+
+*A flow-based illustration of module orchestration & task execution.*
+
+---
 
 ##  Step 0–7: Emergent Execution Flow
 
