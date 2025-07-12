@@ -120,7 +120,7 @@ Ultimately, Celmeta will become a reusable cognitive framework to help more peop
 
 ##  Architecture Overview (Visual)
 
-![Celmeta Architecture  ](.https://github.com/metaunit-core/celmeta-core-1.0/issues/2#issue-3224727492)
+https://github.com/metaunit-core/celmeta-core-1.0/issues/2#issue-3224727492
 
 *A flow-based illustration of module orchestration & task execution.*
 
