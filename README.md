@@ -115,14 +115,12 @@ Ultimately, Celmeta will become a reusable cognitive framework to help more peop
 | **FDEE**     | Flags persistent structural failures and triggers system upgrades   |
 | **LoopBase** | Tracks expression outputs and triggers Re-Anchor checkpoints        |
 | **SELFOS**   | Autonomous execution engine once tasks stabilize                    |
-| **MAI**      | Medical × AI pathway adapter for interdisciplinary execution        |
-
----
+| **MAI**      | Medical × AI pathway adapter for interdisciplinary execution        
 ---
 
 ##  Architecture Overview (Visual)
 
-![Celmeta Architecture](.)
+![Celmeta Architecture  ](.https://github.com/metaunit-core/celmeta-core-1.0/issues/2#issue-3224727492)
 
 *A flow-based illustration of module orchestration & task execution.*
 
