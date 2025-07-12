@@ -150,9 +150,9 @@ Celmeta transitions structure through 7 emergent stages:
 | 2    | Dual Input              | Inject structured input via bilingual streams.        |
 | 3    | Expression Scaffolding | Detect blockages. Rebuild expression pathways.        |
 | 4    | Error Recovery          | Trace failure. Extract signal from breakdown.         |
-| 5    | Structural Migration    | Convert drafts into durable output. Store in LoopBase.|
+| 5    | Structural Migration    | Convert into stable form.|
 | 6    | Stress Simulation       | Reproduce under pressure. Test cognitive stability.   |
-| 7    | Re-Anchor Finalization  | Solidify only what can recur. Archive into SELFOS.    |
+| 7    | Re-Anchor Finalization  | Archive output. Archive into SELFOS.    |
 
 > Don’t memorize — migrate. Output becomes architecture.
 
