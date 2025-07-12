@@ -46,7 +46,7 @@ For:
 - Collaboration proposals  
 - Structural-level research applications
 
-Please contact the project maintainer listed in README.md.
+Please contact the project maintainer listed in  [README.md](./README.md) .
 
 ---
 
