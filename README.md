@@ -325,19 +325,24 @@ Celmeta is not an open-source repository. It’s a structured OS prototype under
 This repository is shared **for academic presentation and structural demonstration purposes only.**  
 The **core source code and full implementation are not publicly available** at this time.
 
-> ⚠️ **Not open-source (yet).**  
-> This project is released for **structural inspiration, conceptual collaboration, and research dialogue only.**  
-> Cloning, forking, or reuse of structural logic without permission is prohibited.
+> ⚠️ **This project is not open-source (yet).**  
+> It is released exclusively for **structural demonstration, conceptual resonance, and collaborative exploration.**  
+> Unlicensed cloning, forking, or replication of the system's logic is strictly prohibited.
 
 ---
 
-###  Contact
+###  Collaboration & Contact
 
 Issues are currently disabled.  
-If you're interested in collaboration, licensing, or structural inquiry:
+If you're interested in:
 
- Email → **celmeta.core@proton.me**
+- licensing this system,
+- research collaboration,
+- building your own cognitive OS,
+- or initiating a structural dialogue,
 
- See [License.md](./License.md) for detailed terms of use and module protection.
+you are welcome to reach out:
 
+📧 **celmeta.core@proton.me**
 
+📄 See [License.md](./License.md) for full usage terms and structural protection clauses.
