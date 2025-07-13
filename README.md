@@ -271,7 +271,51 @@ To build a system that absorbs emotional turbulence without compromising cogniti
 
 ##  Demo & Showcase
 
-> *Coming soon: Echo feedback + LoopBase Re-anchor flow in real task demo.*
+
+
+> *Celmeta is not a template — it's an execution structure that runs even when willpower collapses.*
+
+### 🔜 Coming Soon
+
+####  Medical Knowledge Learning – “Dual-Loop” Concept Demo  
+A preview of how Celmeta helps internalize and express key medical topics through structured execution.  
+Focus: cardiovascular system, bilingual input integration, expressive alignment, and stable recall.
+
+####  MAI Pathway Construction – From Concept to Reasoning  
+Demonstrating how Celmeta bridges medical logic and AI reasoning structures — from raw content to problem-solving tasks.  
+Focus: medical × AI hybrid tasks, expression tracking, and module coordination (MAI, Echo, LoopBase).
+
+> *Collapse becomes structure. Structure becomes the path back.*
+
+
+
+---
+
+ Step 0–7 · Real Task Progression Flow
+
+One real task executed through all 7 steps of Celmeta
+
+From value mapping to final Re-Anchor
+
+Explains how expression isn’t memorized — it’s migrated and stabilized
+
+
+
+---
+
+ Obsidian FinalBase Output Showcase
+
+Real handwriting outputs from Re-Anchored FinalBase
+
+Structure-locked expressions that survived multiple rounds of expressive test
+
+Proves output stability beyond screen-assisted writing
+
+
+
+
+
+
 
 ---
 ##  License & Access
