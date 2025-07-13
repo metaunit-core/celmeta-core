@@ -229,7 +229,38 @@ Through Echo feedback and LoopBase repetition, learners shift from translation-b
 
    **System Visualization Dashboard**  
   • Add dashboard to visualize progress, expressive flow & system feedback loops
+  
+###  V2.8 · Psych-Structural Integration: Anticipatory Emotional Support Layer
 
+Celmeta will incorporate predictive emotional modeling based on cognitive-behavioral theory and emotion regulation research — allowing the system to recognize, normalize, and structurally respond to user breakdown points during high-stakes execution.
+
+This is not therapy. It’s structured compassion — woven into system logic.
+
+**Module: Echo × FDEE × PsychTrack Integration**
+
+| Submodule                    | Functionality                                                                                   | Psychological Basis                                              |
+|-----------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Emotion Threshold Mapping   | Detect early signs of collapse or expressive paralysis based on usage rhythm                   | Gross’s Emotion Regulation Dual-Process Model (2015)            |
+| Procrastination Type Tagger | Distinguish execution-based vs. avoidance-based procrastination, auto-adjust task granularity | Steel’s Temporal Motivation Theory (2007)                       |
+| “I Can’t” Disruption Engine | Interrupt inner self-invalidating loops with structural re-labelling prompts                   | Beck’s Cognitive Reframing Framework (1976)                     |
+| Re-Anchoring After Collapse | Auto-trigger LoopBase flow reactivation post emotional stall or block                          | Kuppens et al.’s Emotional Inertia Dissolution Model (2010)     |
+
+> Collapse is not failure. It’s structural overload. Celmeta does not judge — it redirects.
+
+**Integrated Feedback Phrases (Echo × LoopBase)**
+
+- **When expressive failure loops recur:**  
+  *"You're not broken — just out of sync. Let's realign the rhythm first."*
+
+- **When task avoidance persists:**  
+  *"This isn't laziness. This task may be too abstract or emotionally overloaded. Re-framing it now."*
+
+- **When re-anchoring is disrupted:**  
+  *"Structure, not willpower, is how we resume. We'll reconstruct the output path step by step."*
+
+**Objective:**  
+To build a system that absorbs emotional turbulence without compromising cognitive execution.  
+**Collapse should never be a dead end — it should be a fork in the structural pathway.**
 ---
 
 >  All features are refined via real execution loops, continuously adjusted through `LoopBase` and `FDEE` feedback.
